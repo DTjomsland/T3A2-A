@@ -1,4 +1,7 @@
 # T3A2-A Full Stack App
+
+<br>
+
 ## Description of Website
 ### <strong>Purpose</strong>
 The website is a shift notes and rostering system for small, self-managed teams of personal carers and support workers.  It will assist in streamlining scheduling, communication, and provision of care.
@@ -19,15 +22,21 @@ The tech stack that is utilized in this application is MERN stack:
 - React: A JavaScript library for building user interfaces.
 - Node: An open-source server environment that allows for asynchronous programming.
 
+<br>
+
 ## Dataflow Diagram
 
 ![Image](./docs/dataflow_diagram.png)
+
+<br>
 
 ## Application Architecture Diagram
 ### MERN Stack
 MERN stack is a web development framework that consists of the stack MongoDB, Express.js, React.js, and Node.js.  React is used to create the front-end, Express is used as the server-side framework which runs inside a Node server, and MongoDB is used to store any data. This stack allows for rapid development due to the extensive utilization of a single language: JavaScript. 
 
 ![Image](./docs/mern.png)
+
+<br>
 
 ## User Personas/Stories
 
