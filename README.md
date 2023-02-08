@@ -23,7 +23,7 @@ The target audience of the application is both those who employ and work in the 
 ### <strong>Tech stack</strong>
 The tech stack that is utilized in this application is MERN stack:
 
-- MongoDB: Used for storage fo the application's data.
+- MongoDB: Used for storage of the application's data.
 - Express: A framework for Node used to expedite the API development process.
 - React: A JavaScript library for building user interfaces.
 - Node: An open-source server environment that allows for asynchronous programming.
