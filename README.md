@@ -18,7 +18,7 @@ The problem being solved by this application is that the disabilities community 
 - Provide the ability to download reports for for use in funding applications and psychologist/medical appointments.
 
 ### <strong>Target Audience</strong>
-The target audience of the application is those who both employ and work in the support/disabilities sector. 
+The target audience of the application is both those who employ and work in the support/disabilities sector. 
 
 ### <strong>Tech stack</strong>
 The tech stack that is utilized in this application is MERN stack:
