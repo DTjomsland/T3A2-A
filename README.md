@@ -21,9 +21,7 @@ The problem being solved by this application is that support workers and carers 
 The target audience of the application is both those who employ and work in the support/disabilities sector. 
 
 ### <strong>Tech stack</strong>
-*The base tech stack that is utilized in this application is MERN stack.*
-
-The tech stack utilized for this project consists fo a variety of tools and technologies that we chose based on out personal style of development. For project management, we chose to utilize the Kanban management process to implement agile practices throughout the development of our app. The design tools we chose to use for our initial wireframes, mockups, and diagrams are Balsamiq and Figma.  These two were choses because of their ese of use as well as the ability to easily collaborate with them. The version control system that will be utilized is Git with the assistance of GitHub. Standard git practices will be upheld in order to avoid possible issues. The front-end of the application will consist of React, CSS, HTML, and MUI for more advanced components. The back-end of the application will consist of Node, which will utilize the Express library to make queries to a MongoDB database. 
+ The tech stack utilized for this project consists fo a variety of tools and technologies that we chose based on out personal style of development. For project management, we chose to utilize the Kanban management process to implement agile practices throughout the development of our app. The design tools we chose to use for our initial wireframes, mockups, and diagrams are Balsamiq and Figma.  These two were choses because of their ese of use as well as the ability to easily collaborate with them. The version control system that will be utilized is Git with the assistance of GitHub. Standard git practices will be upheld in order to avoid possible issues. The front-end of the application will consist of React, CSS, HTML, and MUI for more advanced components. The back-end of the application will consist of Node, which will utilize the Express library to make queries to a MongoDB database. 
 
 Project Management:
 - Trello
