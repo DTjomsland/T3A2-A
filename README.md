@@ -32,7 +32,7 @@ The tech stack that is utilized in this application is MERN stack:
 
 ## Dataflow Diagram
 
-![Image](./docs/dataflow_diagram.png)
+![Image](./docs/DFD.png)
 
 <br>
 
