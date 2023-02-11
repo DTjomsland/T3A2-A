@@ -7,7 +7,7 @@
 The purpose of this website is to allow small, self-managed teams of personal carers and support workers to easily create and edit shift notes, incident reports, and handover information as well as provide a rostering system to help organize the workers.  In short, this application intends on streamlining scheduling, communication, and provision of care. 
 
 ### <strong>Problem</strong>
-The problem being solved by this application is that the disabilities community lacks any specialized software that is catered toward their specific needs.  This community is forced to adapt software intended for other audiences to meet their needs and it often comes up short.  Outside of available software, many care providers and managers (including families of the disabled) often resort to dated methods of reporting and logging shift information/notes. These methods typically include heavy use of paperwork and physical files which are inefficient and exceptionally hard to keep organized. As far as scheduling, the disabilities community typically resorts to using a variety of chat apps in order to schedule their carers which is both chaotic and confusing.  This community is in desperate need of an application that can streamline the most time consuming tasks they face daily.
+The problem being solved by this application is that support workers and carers lack any specialized software that is catered toward their specific needs.  This community is forced to adapt software intended for other audiences to meet their needs and it often comes up short.  Outside of available software, many care providers and managers (including families of the disabled) often resort to dated methods of reporting and logging shift information/notes. These methods typically include heavy use of paperwork and physical files which are inefficient and exceptionally hard to keep organized. As far as scheduling, the disabilities community typically resorts to using a variety of chat apps in order to schedule their carers which is both chaotic and confusing.  This community is in desperate need of an application that can streamline the most time consuming tasks they face daily.
 
 ### <strong></strong>
 
@@ -21,16 +21,36 @@ The problem being solved by this application is that the disabilities community 
 The target audience of the application is both those who employ and work in the support/disabilities sector. 
 
 ### <strong>Tech stack</strong>
-The tech stack that is utilized in this application is MERN stack:
+*The base tech stack that is utilized in this application is MERN stack*
 
-- MongoDB: Used for storage of the application's data.
-- Express: A framework for Node used to expedite the API development process.
-- React: A JavaScript library for building user interfaces.
-- Node: An open-source server environment that allows for asynchronous programming.
+Project Management:
+- Trello
+
+Design Tools:
+- Figma
+- Balsamiq
+
+Version Control:
+- Git
+- GitHub
+
+Front-end:
+- React
+- JavaScript
+- CSS
+- HTML
+
+Back-end:
+- Node.js
+- Express.js
+- Mongoose
+- MongoDB
+
 
 <br>
 
 ## Dataflow Diagram
+MERN stack is a web development framework that consists of the stack MongoDB, Express.js, React.js, and Node.js. React is used to create the front-end, Express is used as the server-side framework which runs inside a Node server, and MongoDB is used to store any data. This stack allows for rapid development due to the extensive utilization of a single language: JavaScript.
 
 ![Image](./docs/DFD.png)
 
@@ -38,8 +58,6 @@ The tech stack that is utilized in this application is MERN stack:
 
 ## Application Architecture Diagram
 ### MERN Stack
-MERN stack is a web development framework that consists of the stack MongoDB, Express.js, React.js, and Node.js.  React is used to create the front-end, Express is used as the server-side framework which runs inside a Node server, and MongoDB is used to store any data. This stack allows for rapid development due to the extensive utilization of a single language: JavaScript. 
-
 ![Image](./docs/AAD.png)
 
 <br>
