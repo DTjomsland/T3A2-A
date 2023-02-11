@@ -57,11 +57,15 @@ Back-end:
 ## Application Architecture Diagram
 ### MERN Stack
 MERN stack is a web development framework that consists of the stack MongoDB, Express.js, React.js, and Node.js. React is used to create the front-end, Express is used as the server-side framework which runs inside a Node server, and MongoDB is used to store any data. This stack allows for rapid development due to the extensive utilization of a single language: JavaScript.
+
+<br>
+
 ![Image](./docs/AAD.png)
 
 <br>
 
 ## User Personas/Stories
+We split our personas into two groups, employees and employers. These groups consist of three personas, each with unique backgrounds and needs which we felt covered the use cases of our application. 
 
 ### <strong>Employee Personas:</strong>
 ![Image](./docs/Persona-Frank.png)
