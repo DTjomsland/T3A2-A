@@ -112,4 +112,7 @@ As Sandra, the care coordinator for a small business that assigns carers for man
 
 
 ## Trello Progress
+The following shows our progress of the Trello throughout the first half of our final assignment. At the start of the project,  we delegated tasks between the two of us based on the amount of time we estimated they would take. Each of us were responsible for our tasks which were turned into "To Do" cards. 
+
+When a team member started on a task, the card would be shifted to the "In Progress" column.  Upon completion, the card would be moved to the "Done" column and the next task would be started.  The "Testing" column is for use in the future when we begin coding the application.
 ![Image](./docs/trello.png)
