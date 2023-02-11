@@ -50,14 +50,13 @@ Back-end:
 <br>
 
 ## Dataflow Diagram
-MERN stack is a web development framework that consists of the stack MongoDB, Express.js, React.js, and Node.js. React is used to create the front-end, Express is used as the server-side framework which runs inside a Node server, and MongoDB is used to store any data. This stack allows for rapid development due to the extensive utilization of a single language: JavaScript.
-
 ![Image](./docs/DFD.png)
 
 <br>
 
 ## Application Architecture Diagram
 ### MERN Stack
+MERN stack is a web development framework that consists of the stack MongoDB, Express.js, React.js, and Node.js. React is used to create the front-end, Express is used as the server-side framework which runs inside a Node server, and MongoDB is used to store any data. This stack allows for rapid development due to the extensive utilization of a single language: JavaScript.
 ![Image](./docs/AAD.png)
 
 <br>
