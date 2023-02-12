@@ -58,7 +58,7 @@ The target audience of the application is both those who employ and work in the 
 
 ## Application Architecture Diagram
 ### MERN Stack
-MERN stack is a web development framework that consists of the stack MongoDB, Express.js, React.js, and Node.js. React is used to create the front-end, Express is used as the server-side framework which runs inside a Node server, and MongoDB is used to store any data. This stack allows for rapid development due to the extensive utilization of a single language: JavaScript.
+MERN stack is a web development framework that consists of the stack MongoDB, Express.js, React.js, and Node.js. React is used to create the front-end, Express is used as the server-side framework which runs inside a Node server, and MongoDB is used to store any data. 
 
 <br>
 
