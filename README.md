@@ -4,10 +4,10 @@
 
 ## Description of Website
 ### <strong>Purpose</strong>
-The purpose of this website is to allow small, self-managed teams of personal carers and support workers to easily create and edit shift notes, incident reports, and handover information as well as provide a rostering system to help organize the workers.  In short, this application intends on streamlining scheduling, communication, and provision of care. 
+The purpose of this website is to allow small, self-managed teams of personal carers and support workers to easily create and edit shift notes, incident reports, and handover information as well as provide a rostering system to help organize the workers. In short, this application intends on streamlining scheduling, communication, and provision of care. 
 
 ### <strong>Problem</strong>
-The problem being solved by this application is that support workers and carers lack any specialized software that is catered toward their specific needs.  This community is forced to adapt software intended for other audiences to meet their needs and it often comes up short.  Outside of available software, many care providers and managers (including families of the disabled) often resort to dated methods of reporting and logging shift information/notes. These methods typically include heavy use of paperwork and physical files which are inefficient and exceptionally hard to keep organized. As far as scheduling, the disabilities community typically resorts to using a variety of chat apps in order to schedule their carers which is both chaotic and confusing.  This community is in desperate need of an application that can streamline the most time consuming tasks they face daily.
+The problem being solved by this application is that support workers and carers lack any specialized software that is catered toward their specific needs. This community is forced to adapt software intended for other audiences to meet their needs and it often comes up short.  Outside of available software, many care providers and managers (including families of the disabled) often resort to dated methods of reporting and logging shift information/notes. These methods typically include heavy use of paperwork and physical files which are inefficient and exceptionally hard to keep organized. As far as scheduling, the disabilities community typically resorts to using a variety of chat apps in order to schedule their carers which is both chaotic and confusing. This community is in desperate need of an application that can streamline the most time consuming tasks they face daily.
 
 ### <strong></strong>
 
@@ -21,7 +21,7 @@ The problem being solved by this application is that support workers and carers 
 The target audience of the application is both those who employ and work in the support/disabilities sector. 
 
 ### <strong>Tech stack</strong>
- The tech stack utilized for this project consists fo a variety of tools and technologies that we chose based on out personal style of development. For project management, we chose to utilize the Kanban management process to implement agile practices throughout the development of our app. The design tools we chose to use for our initial wireframes, mockups, and diagrams are Balsamiq and Figma.  These two were chosen because of their ease of use as well as the ability to easily collaborate with them. The version control system that will be utilized is Git with the assistance of GitHub. Standard git practices will be upheld in order to avoid possible issues when collaboratively working on our codebase. The front-end of the application will consist of React, CSS, HTML, and MUI for more advanced components. The back-end of the application will consist of Node, which will utilize the Express library to make queries to a MongoDB database. 
+ The tech stack utilized for this project consists of a variety of tools and technologies that we chose based on out personal style of development. For project management, we chose to utilize the Kanban management process to implement agile practices throughout the development of our app. The design tools we chose to use for our initial wireframes, mockups, and diagrams are Balsamiq and Figma. These two were chosen because of their ease of use as well as the ability to easily collaborate with them. The version control system that will be utilized is Git with the assistance of GitHub. Standard git practices will be upheld in order to avoid possible issues when collaboratively working on our codebase. The front-end of the application will consist of React, CSS, HTML, and MUI for more advanced components. The back-end of the application will consist of Node, which will utilize the Express library to make queries to a MongoDB database. 
 
 <strong>Project Management:</strong>
 - Trello
@@ -144,7 +144,7 @@ On wider displays (tablet and desktop), we can fit more components on a single s
 ![Carer shift management flow for tablet devices](./docs/wire-shift-flow-carer-tablet.png)
 
 #### Additional Shift widget options on wider screens
-With these larger components on wider screens, we can also add features such as buttons within the shift thumbnail components to access the handover, shift notes, and incident reports for a particular shift form the calendar view.
+With these larger components on wider screens, we can also add features such as buttons within the shift thumbnail components to access the handover, shift notes, and incident reports for a particular shift from the calendar view.
 ![Additional shift component options on wider screens](./docs/wire-shift-widget-desktop-detail.png)
 
 
