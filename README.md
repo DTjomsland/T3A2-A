@@ -109,6 +109,45 @@ As Sandra, the care coordinator for a small business that assigns carers for man
 
 
 ## Wireframes
+### Main application view
+Our app visual interface revolves around the calendar as the central component, and we took a mobile-first approach. Because we wanted to keep things clean and simple, making everything centrally accessible without having to navigate to too many different views. Carers will probably want to be able to quickly enter notes on their phone during a shift, while employers may want to organise their calendar and review shift notes on a larger screen such as a tablet or desktop.
+
+**Main application view for mobile tablet, and desktop**
+
+![Main application view for mobile tablet, and desktop](./docs/wire-main-all-sizes.png)
+
+**Main application view for tablet (portrait vs desktop orientation)**
+
+![Main application view for tablet (portrait vs desktop orientation)](./docs/wire-main-tablet.png)
+
+### Wireflows
+#### User login and calendar
+![User login and calendar view wireflow](./docs/wire-user-login-flow.png)
+
+#### Shift management (employer)
+![Employer shift creation and management wireflow](./docs/wire-shift-flow-employer.png)
+
+#### Shift management (carer)
+![Carer shift management wireflow](./docs/wire-shift-flow-carer-mobile.png)
+
+#### Incident report editor
+![Incident reporting wireflow](./docs/wire-incident-flow.png)
+
+#### Handover notes editor
+![Handover editing wireflow](./docs/wire-handover-flow.png)
+
+#### Care team details
+![Care team view wireflow](./docs/wire-care-team-flow.png)
+
+#### Shift management flow (Tablet)
+On wider displays (tablet and desktop), we can fit more components on a single screen, utilising modals/pullover panels for editing the notes without having to navigate away from the calendar.
+![Carer shift management flow for tablet devices](./docs/wire-shift-flow-carer-tablet.png)
+
+#### Additional Shift widget options on wider screens
+With these larger components on wider screens, we can also add features such as buttons within the shift thumbnail components to access the handover, shift notes, and incident reports for a particular shift form the calendar view.
+![Additional shift component options on wider screens](./docs/wire-shift-widget-desktop-detail.png)
+
+
 
 
 ## Trello Progress
