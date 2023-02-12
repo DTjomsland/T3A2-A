@@ -15,13 +15,13 @@ The problem being solved by this application is that support workers and carers 
 ### <strong>Functionality/Features</strong>
 - Keep a log of each shift including general notes, incident reports, and handover for the next worker.
 - Add shift dates and times to a shared roster/calendar.
-- Provide the ability to download reports for for use in funding applications and psychologist/medical appointments.
+- Provide the ability to download reports for use in funding applications and psychologist/medical appointments.
 
 ### <strong>Target Audience</strong>
 The target audience of the application is both those who employ and work in the support/disabilities sector. 
 
 ### <strong>Tech stack</strong>
- The tech stack utilized for this project consists of a variety of tools and technologies that we chose based on out personal style of development. For project management, we chose to utilize the Kanban management process to implement agile practices throughout the development of our app. The design tools we chose to use for our initial wireframes, mockups, and diagrams are Balsamiq and Figma. These two were chosen because of their ease of use as well as the ability to easily collaborate with them. The version control system that will be utilized is Git with the assistance of GitHub. Standard git practices will be upheld in order to avoid possible issues when collaboratively working on our codebase. The front-end of the application will consist of React, CSS, HTML, and MUI for more advanced components. The back-end of the application will consist of Node, which will utilize the Express library to make queries to a MongoDB database. 
+ The tech stack utilized for this project consists of a variety of tools and technologies that we chose based on our personal style of development. For project management, we chose to utilize the Kanban management process to implement agile practices throughout the development of our app. The design tools we chose to use for our initial wireframes, mockups, and diagrams are Balsamiq and Figma. These two were chosen because of their ease of use as well as the ability to easily collaborate with them. The version control system that will be utilized is Git with the assistance of GitHub. Standard git practices will be upheld in order to avoid possible issues when collaboratively working on our codebase. The front-end of the application will consist of React, CSS, HTML, and MUI for more advanced components. The back-end of the application will consist of Node, which will utilize the Express library to make queries to a MongoDB database. 
 
 <strong>Project Management:</strong>
 - Trello
@@ -110,7 +110,7 @@ As Sandra, the care coordinator for a small business that assigns carers for man
 
 ## Wireframes
 ### Main application view
-Our app visual interface revolves around the calendar as the central component, and we took a mobile-first approach. Because we wanted to keep things clean and simple, making everything centrally accessible without having to navigate to too many different views. Carers will probably want to be able to quickly enter notes on their phone during a shift, while employers may want to organise their calendar and review shift notes on a larger screen such as a tablet or desktop.
+Our app visual interface revolves around the calendar as the central component, and we took a mobile-first approach. We wanted to keep things clean and simple, making everything centrally accessible without having to navigate to too many different views. Carers will probably want to be able to quickly enter notes on their phone during a shift, while employers may want to organise their calendar and review shift notes on a larger screen such as a tablet or desktop.
 
 **Main application view for mobile tablet, and desktop**
 
@@ -151,7 +151,7 @@ With these larger components on wider screens, we can also add features such as 
 
 
 ## Trello Progress
-The following shows our progress of the Trello throughout the first half of our final assignment. At the start of the project,  we delegated tasks between the two of us based on the amount of time we estimated they would take. Each of us were responsible for our tasks which were turned into "To Do" cards. 
+The following shows our progress of the Trello board throughout the first half of our final assignment. At the start of the project,  we delegated tasks between the two of us based on the amount of time we estimated they would take. Each of us were responsible for our tasks which were turned into "To Do" cards. 
 
 When a team member started on a task, the card would be shifted to the "In Progress" column.  Upon completion, the card would be moved to the "Done" column and the next task would be started.  The "Testing" column is for use in the future when we begin coding the application.
 ![Image](./docs/trello.png)
